@@ -5,4 +5,4 @@ Columbia EECS6893 final project 2021Fall team13
 
 Project Name: Anime Recommedation
 
-Youtube Video Link:https://www.youtube.com/watch?v=7NbISkU3ayg
+Youtube Video Link:https://youtu.be/7NbISkU3ayg
