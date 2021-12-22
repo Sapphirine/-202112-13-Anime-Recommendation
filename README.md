@@ -16,7 +16,9 @@ Jikan Api:https://jikan.docs.apiary.io/#introduction
 
 ## Methodology
 Machine Learning Alogorithms: Linear Regression, Random Forest, Decision tree, Gradient boosted tree, KNN
+
 Deep Learning Algorithmns: DLRM
+
 Modules: Tensorflow, Keras, Sklearn, Pyspark
 
 ## Introduction of Project
