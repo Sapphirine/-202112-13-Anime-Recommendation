@@ -12,6 +12,7 @@ This repository contains the work for the final project for EECS E6893 - Big Dat
 
 ## Dataset
 All the data are scrapped from www.animelist.com using Jikan API.
+
 Jikan Api:https://jikan.docs.apiary.io/#introduction
 
 ## Methodology
