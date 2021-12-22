@@ -1,7 +1,7 @@
 # Sapphirine Anime Recommendation
 Columbia EECS6893 final project 2021Fall team13
 
-## Team member:Zijun Wei, Hanwei Tang, Yifan Wang
+### Team member:Zijun Wei, Hanwei Tang, Yifan Wang
 
 Project Name: Anime Recommedation
 
@@ -9,6 +9,15 @@ Youtube Video Link:https://youtu.be/7NbISkU3ayg
 
 ## Desicription
 This repository contains the work for the final project for EECS E6893 - Big Data Analytics taught by Prof. Ching-Yung Lin.
+
+## Dataset
+All the data are scrapped from www.animelist.com using Jikan API.
+Jikan Api:https://jikan.docs.apiary.io/#introduction
+
+## Methodology
+Machine Learning Alogorithms: Linear Regression, Random Forest, Decision tree, Gradient boosted tree, KNN
+Deep Learning Algorithmns: DLRM
+Modules: Tensorflow, Keras, Sklearn, Pyspark
 
 ## Introduction of Project
 
