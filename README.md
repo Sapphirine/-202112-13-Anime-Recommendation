@@ -10,7 +10,7 @@ Youtube Video Link:https://youtu.be/7NbISkU3ayg
 ## Desicription
 This repository contains the work for the final project for EECS E6893 - Big Data Analytics taught by Prof. Ching-Yung Lin.
 
-# Organization of directory
+## Organization of the directories
 ```
 ./
 ├── Collaborative algo
@@ -35,3 +35,4 @@ This repository contains the work for the final project for EECS E6893 - Big Dat
     └── All Scrapping process.ipynb
 
 4 directories, 16 files
+```
